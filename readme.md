@@ -3,6 +3,8 @@
 Im Sommer 2015 bis Herbst 2015 haben wir eine Umfrage zur Wissenschaftlichen Forschungspraxis in den Geisteswissenschaften durchgeführt. Der dabei genutzte Fragebogen ist strukturell an [TaDiRAH - Taxonomy of Digital Research Activities in the Humanities](http://tadirah.dariah.eu/vocab/index.php) angelehnt. 
 
 Begleit-Blog: [https://p4h.hypotheses.org/category/blog]
+Fragebogen: [https://github.com/FUB-HCC/dhQuestionnaire/blob/master/Druckversion_Fragebogen.pdf]
+[TaDiRAH - Deutsche Übersetzung](https://github.com/FUB-HCC/dhQuestionnaire/tree/master/TaDiRAH-de)
 
 Eine erste Auswertung der Ergebnisse ist hier verfügbar:
 Müller-Birn, C.; Schlegel, A. & Pentzold, C., (2016): Softwarenutzung in der geisteswissenschaftlichen Forschungspraxis. In: Prinz, W., Borchers, J. & Jarke, M. (Hrsg.), Mensch und Computer 2016 - Tagungsband. Aachen: Gesellschaft für Informatik e.V. Aachen (Germany). [https://dl.gi.de/handle/20.500.12116/223]

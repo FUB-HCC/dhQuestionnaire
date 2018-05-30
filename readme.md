@@ -1,6 +1,6 @@
 # Wissenschaftliche Forschungspraxis in den Geisteswissenschaften
 
-Im Sommer 2015 bis Herbst 2015 haben wir eine Umfrage zur Wissenschaftlichen Forschungspraxis in den Geisteswissenschaften durchgeführt. Der dabei genutzte Fragebogen ist strukturell an [TaDiRAH - Taxonomy of Digital Research Activities in the Humanities](http://tadirah.dariah.eu/vocab/index.php) angelehnt. 
+Von September 2015 bis Januar 2016 haben wir eine Umfrage zur Wissenschaftlichen Forschungspraxis in den Geisteswissenschaften durchgeführt. Der dabei genutzte Fragebogen ist strukturell an [TaDiRAH - Taxonomy of Digital Research Activities in the Humanities](http://tadirah.dariah.eu/vocab/index.php) angelehnt. 
 
 * Begleit-Blog: [https://p4h.hypotheses.org/category/blog]
 * Fragebogen: [https://github.com/FUB-HCC/dhQuestionnaire/blob/master/Druckversion_Fragebogen.pdf]

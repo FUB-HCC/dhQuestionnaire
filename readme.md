@@ -7,7 +7,7 @@ Von September 2015 bis Januar 2016 haben wir eine Umfrage zur Wissenschaftlichen
 * [TaDiRAH - Deutsche Übersetzung](https://github.com/FUB-HCC/dhQuestionnaire/tree/master/TaDiRAH-de)
 
 Eine erste Auswertung der Ergebnisse ist hier verfügbar:
-* [Müller-Birn, C.; Schlegel, A. & Pentzold, C., (2016): Softwarenutzung in der geisteswissenschaftlichen Forschungspraxis. In: Prinz, W., Borchers, J. & Jarke, M. (Hrsg.), Mensch und Computer 2016 - Tagungsband. Aachen: Gesellschaft für Informatik e.V. Aachen (Germany).] (https://dl.gi.de/handle/20.500.12116/223)
+* Müller-Birn, C.; Schlegel, A. & Pentzold, C., (2016): Softwarenutzung in der geisteswissenschaftlichen Forschungspraxis. In: Prinz, W., Borchers, J. & Jarke, M. (Hrsg.), Mensch und Computer 2016 - Tagungsband. Aachen: Gesellschaft für Informatik e.V. Aachen (Germany). https://dl.gi.de/handle/20.500.12116/223
 
 # Hintergrundinformation
 
